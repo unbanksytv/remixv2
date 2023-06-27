@@ -38,7 +38,7 @@ const colors = {
   red: "#EF4444",
   teal: "#14B8A6",
   cyan: "#22D3EE",
-  yellow: "#FBBF24",
+  yellow: "#f9d500",
 } as const;
 
 export default function Home() {

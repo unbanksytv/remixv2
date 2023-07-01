@@ -1,5 +1,5 @@
 
-export const contractConst = "0x7B4603c65909565aDdc91BB4B81696009b8847E4";
+export const contractConst = "0x009C93c2285A5Eb536f3a9607A138e68094B94Bd";
 
 export const chainConst = "mumbai";
 

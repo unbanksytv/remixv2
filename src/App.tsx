@@ -345,8 +345,7 @@ export default function Home() {
             <div className="flex w-full gap-4">
               {dropNotReady ? (
                 <span className="text-red-500">
-                  This drop is not ready to be minted yet. (No claim condition
-                  set)
+                  This drop is not ready to be minted yet.
                 </span>
               ) : dropStartingSoon ? (
                 <span className="text-gray-500">
